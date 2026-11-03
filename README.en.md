@@ -21,8 +21,8 @@ SpriteKit.
 ## Run
 
 ```bash
-git clone https://github.com/dpogonia/FlappyBirdt-FullstackIO.git
-cd FlappyBirdt-FullstackIO
+git clone https://github.com/dpogonia/FlappyBirdt-FULLSTACKIO.git
+cd FlappyBirdt-FULLSTACKIO
 open FlappyBird.xcodeproj
 ```
 
